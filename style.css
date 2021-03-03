@@ -41,7 +41,7 @@ nav ul li a:hover{
 }
 
 #home {
-    background: url(../img/headerimg.jpg);
+    background: url(headerimg.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
